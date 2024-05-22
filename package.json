@@ -1,0 +1,24 @@
+{
+  "name": "@areeshairfan/atm_machine",
+  "version": "1.0.0",
+  "description": "this is an atm machine",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/code": "^4.0.8",
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
